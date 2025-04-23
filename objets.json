@@ -1,0 +1,6 @@
+[
+  { "nom": "clé", "utilisableDans": "Jardin" },
+  { "nom": "torchon", "utilisableDans": null },
+  { "nom": "tournevis", "utilisableDans": null },
+  { "nom": "livre ancien", "utilisableDans": null }
+]

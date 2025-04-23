@@ -1,0 +1,12 @@
+[
+  { "nom": "Ouvrier", "dialogue": "Je répare toujours quelque chose ici." },
+  { "nom": "Vieille dame", "dialogue": "Oh, les souvenirs de ce salon..." },
+  { "nom": "Libraire", "dialogue": "Chut... Cette énigme va vous passionner." },
+  { "nom": "Fantôme", "dialogue": "Ouuuh... Répondez si vous l’osez." },
+  { "nom": "Majordome", "dialogue": "Un mystère vous attend dans ce hall." },
+  { "nom": "Cuisinier", "dialogue": "Une énigme bien mijotée, pour vous !" },
+  { "nom": "Portier", "dialogue": "Bienvenue. Répondez à ceci avant d’entrer." },
+  { "nom": "Chef de cuisine", "dialogue": "Ce cellier cache plus qu’il n’y paraît." },
+  { "nom": "Jardinier", "dialogue": "Le jardin murmure... Saurez-vous l’écouter ?" },
+  { "nom": "Professeur Layton", "dialogue": "Voici votre ultime énigme." }
+]

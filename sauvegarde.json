@@ -1,0 +1,14 @@
+{
+  "p" : {
+    "introVue" : true,
+    "salleActuelle" : "Entrée",
+    "nom" : "p",
+    "inventaire" : [
+
+    ],
+    "objetsUtilisés" : [
+
+    ],
+    "score" : 100
+  }
+}
